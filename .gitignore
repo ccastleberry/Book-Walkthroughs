@@ -1,1 +1,7 @@
+# Environment Variables
 .env
+
+
+# Rust
+**/target/
+**/Cargo.lock
