@@ -5,3 +5,7 @@
 # Rust
 **/target/
 **/Cargo.lock
+
+
+# React
+*/node_modules/
